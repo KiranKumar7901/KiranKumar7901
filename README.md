@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gfQNlmMrFf1Aa0IixESdihE-DmypboQs/view?usp=drive_link](https://drive.google.com/file/d/1gfQNlmMrFf1Aa0IixESdihE-DmypboQs/view?usp=drive_link)
 
-## 🔗 Connect with Me:
+##  Connect with Me:
 [![leetcode](https://img.shields.io/badge/LeetCode-ffa500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kirankumar992001/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/)
 
 <h3 align="left">Languages and Tools:</h3>
