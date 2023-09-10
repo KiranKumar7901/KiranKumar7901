@@ -17,7 +17,55 @@
 [![leetcode](https://img.shields.io/badge/LeetCode-ffa500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kirankumar992001/)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) [![instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img alt="svgImg" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCI+CjxwYXRoIGZpbGw9IiNFNjUxMDAiIGQ9Ik00MSw1SDdsMywzNGwxNCw0bDE0LTRMNDEsNUw0MSw1eiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNGRjZEMDAiIGQ9Ik0yNCA4TDI0IDM5LjkgMzUuMiAzNi43IDM3LjcgOHoiPjwvcGF0aD48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjQsMjV2LTRoOC42bC0wLjcsMTEuNUwyNCwzNS4xdi00LjJsNC4xLTEuNGwwLjMtNC41SDI0eiBNMzIuOSwxN2wwLjMtNEgyNHY0SDMyLjl6Ij48L3BhdGg+PHBhdGggZmlsbD0iI0VFRSIgZD0iTTI0LDMwLjl2NC4ybC03LjktMi42TDE1LjcsMjdoNGwwLjIsMi41TDI0LDMwLjl6IE0xOS4xLDE3SDI0di00aC05LjFsMC43LDEySDI0di00aC00LjZMMTkuMSwxN3oiPjwvcGF0aD4KPC9zdmc+"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img width="40" height="40" src="https://img.icons8.com/color/48/bootstrap.png" alt="bootstrap"/>
+</a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+</a> 
+<a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>   
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+</a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+ <img width="40" height="40" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+</a> 
+<a href="https://www.w3schools.com/python/python_reference.asp" target="_blank" rel="noreferrer">
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> 
+</a>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+</a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/officel/40/php-logo.png" alt="php-logo"/>
+</a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img width="40" height="40" src="https://img.icons8.com/ios/50/22C3E6/react-native--v1.png" alt="react-native--v1"/>
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+</a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+</a> 
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirankumar7901&show_icons=true&locale=en&layout=compact" alt="kirankumar7901" /></p>
 
