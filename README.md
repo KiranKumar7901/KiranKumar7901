@@ -10,10 +10,10 @@
   
 📫 How to reach me **kirankumar992001@gmail.com**
   
-👨‍💻 All of my projects are available at:
+🌐 All of my projects are available at:
   [https://kirankumar791-portfolio.netlify.app/](https://kirankumar791-portfolio.netlify.app/)
   
-📄 Know about my experiences:
+📜 Know about my experiences:
   [https://drive.google.com/file/d/1gfQNlmMrFf1Aa0IixESdihE-DmypboQs/view?usp=drive_link](https://drive.google.com/file/d/1gfQNlmMrFf1Aa0IixESdihE-DmypboQs/view?usp=drive_link)
   
 
