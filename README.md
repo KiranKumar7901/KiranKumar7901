@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kiran Kumar</h1>
-<h3 align="center">Passionate Frontend Developer | Coder</h3>
+<h1 align="center">👋 Hello, I'm Kiran Kumar</h1>
+<h3 align="center">🖥️Passionate Front-End Developer || Coder🖥️</h3>
 <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumar7901&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumar7901" /> </p>
