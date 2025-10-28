@@ -17,7 +17,6 @@
 ##  Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/kiran-kumar-514793179"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/linkedin.png" alt="linkedin"/></a>
-  <a href="www.instagram.com"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/instagram-new.png" alt="instagram"/></a>
   <a href="https://leetcode.com/kirankumar992001/"><img width="150" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode"/></a>
 </p>
 <br>
@@ -33,14 +32,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" src="https://img.icons8.com/officel/40/php-logo.png" alt="php-logo"/>
-</a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/> 
-</a>
-<br>
-  
+</a>  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 </a> 
@@ -58,19 +52,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
- <img width="40" height="40" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
-</a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
-</a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" src="https://img.icons8.com/color/40/adobe-xd--v1.png" alt="adobe-xd--v1"/>
-</a> 
-<br>
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img width="40" height="40" src="https://img.icons8.com/ios/50/22C3E6/react-native--v1.png" alt="react-native--v1"/>
 </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
