@@ -16,8 +16,8 @@
 
 ##  Connect with Me:
 <p align="left">
-  <a href="https://linkedin.com/in/kiran-kumar-514793179"><img width="50" height="50" src="https://img.icons8.com/3d-fluency/50/linkedin.png" alt="linkedin"/></a>
-  <a href="https://leetcode.com/kirankumar992001/"><img width="150" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" alt="LeetCode"/></a>
+  <a href="https://linkedin.com/in/kiran-kumar-514793179">LinkedIn</a><br>
+  <a href="https://leetcode.com/kirankumar992001/">LeetCode</a>
 </p>
 <br>
 
